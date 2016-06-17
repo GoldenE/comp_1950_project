@@ -1,0 +1,14 @@
+/* ---- Header + Navigation ---- */
+
+header{
+	background-color: lightblue;
+	color: black;
+	font-size: 1.2em;
+}
+
+nav a{
+	color: black;
+}
+h1{
+	color: red;
+}
