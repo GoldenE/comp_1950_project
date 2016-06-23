@@ -1,0 +1,28 @@
+main{
+	width: 100%
+}
+
+main .row{
+	width: 85%;
+	margin: auto;
+}
+
+fieldset{
+	margin: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+label{
+	margin-top: 5px;
+}
+
+.submit_button{
+	margin-top: 5px;
+	padding-top: 8px;
+	background-color: lightblue;
+}
+
+.submit_button:hover{
+	background-color: blue;
+}

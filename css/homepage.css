@@ -1,0 +1,16 @@
+/* ---- Jumbotron  ----- */
+.jumbotron{
+	background-image: url('/images/bcit_jumbotron_placeholder.jpg');
+	background-size: cover;
+	height: 800px;
+}
+
+.jumbotron h1{
+	padding-top: 100px;
+	color: white;
+	text-shadow: 1px 1px 1px black;
+}
+
+.jumbotron button{
+	margin: 20px;
+}
