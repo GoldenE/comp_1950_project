@@ -12,6 +12,6 @@ AddType text/html .shtml .html
 AddHandler server-parsed .shtml .html 
 Options Indexes FollowSymLinks Includes 
 
-
+ErrorDocument 404 /errors/file_not_found.html
 # learn more about using .htaccess:
 # http://www.javascriptkit.com/howto/htaccess.shtml
